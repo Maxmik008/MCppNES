@@ -6,6 +6,10 @@ Welcome to the MCNES, a NES emulator written in C! This project is an open-sourc
 
 The codebase is currently a blank slate and contributions and suggestions are welcome. The project is licensed under the GNU General Public License v2.0, which means that any derivative works of the code must also be released under the same license.
 
+# Build
+
+This project is in its early development phase, therefore, the code is not yet functional and cannot be built yet. We are actively working on the development and will update the repository once there is something to show. Feel free to check the code and open issues, but please do not expect it to work at this stage.
+
 # Goals
 The emulator is being developed with C programming language, and we are aiming to support multiple platforms such as Windows, Linux and MacOS.
 
